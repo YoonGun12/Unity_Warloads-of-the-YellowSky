@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: c69fa5218da801441839f5ad7bf2072e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_0'
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 488
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e669ad69f96b5e4fab8aba76063d7c7
+      internalID: -333987277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_1'
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 488
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b7c927f0d46ce4684da3429bfbc3a5
+      internalID: 819249100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_2'
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 488
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0bbe4f9e4870449af7d01d3d21fcb8
+      internalID: 167379264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_3'
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 488
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9bed247840abb43a27d40d6f9c133e
+      internalID: 1301076416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_4'
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 488
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94642c8e111ea354e82a9d30b3c51242
+      internalID: -1210662231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_5'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 379
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2a8a010a29074b93a2ca708ba1706
+      internalID: 648149068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_6'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 379
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e069a21ab029f479b3ff073c32cfb1
+      internalID: 828613821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_7'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 379
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1aa68b251ab44468953fb0556e4e43
+      internalID: 269964602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_8'
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 379
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322e2bee30ca9c04e96879ab2fae161e
+      internalID: 1147456272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_9'
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 379
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e5d2fe15a5f1f4fa8996b02d4ec6be
+      internalID: 1498664241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_10'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 269
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9286db30a5c341b5f71b2e225e37a
+      internalID: -98390161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_11'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 269
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49158e1f284a6e640b35576f8d3253f2
+      internalID: -1848115650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_12'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 269
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a71c8dafb338442adeb846e44a0d75
+      internalID: -605560686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_13'
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 269
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56479992c3870f04baaea6ab2db40014
+      internalID: -1576797832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_14'
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 269
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7590347476ed44b9a4df607efd6c9d
+      internalID: 1626282202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_15'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 160
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c66f7d6eff2a840ba66c1c4a187134
+      internalID: -47315010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_16'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 160
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3052618a0e5a8349aa09f34986b28e3
+      internalID: 1529412721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_17'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 160
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede21cf0132c9284fbb1087cdff8992e
+      internalID: -1963672487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_18'
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 160
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8319284f430464ebc1117a9ff70ccd
+      internalID: -1271207639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_19'
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 160
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26819318818d00d4aaf426984f16bab9
+      internalID: -842682012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_20'
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 51
+        width: 93
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760417cac3cbb034c9847b6ac345c60f
+      internalID: 2129416359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_21'
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 51
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52316d02c9a9294da418a5012b3dc55
+      internalID: 450341432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_22'
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 51
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6fe10714487344d8e9826d8fa70049
+      internalID: 1668874404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_23'
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6f195fb2d7b1489c28c41346fb3b0
+      internalID: -641594023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_24'
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 51
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f11563a0f5981d4b8f656cae5d4ed4d
+      internalID: 605841949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_0': -333987277
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_1': 819249100
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_10': -98390161
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_11': -1848115650
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_12': -605560686
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_13': -1576797832
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_14': 1626282202
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_15': -47315010
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_16': 1529412721
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_17': -1963672487
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_18': -1271207639
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_19': -842682012
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_2': 167379264
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_20': 2129416359
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_21': 450341432
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_22': 1668874404
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_23': -641594023
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_24': 605841949
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_3': 1301076416
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_4': -1210662231
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_5': 648149068
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_6': 828613821
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_7': 269964602
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_8': 1147456272
+      '[removal.ai]_68d42f65-335e-4698-a2db-6d739c169ce7-set-of-gold-round-buttons-stock-vector_-illustration-of-options-49102907_9': 1498664241
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
